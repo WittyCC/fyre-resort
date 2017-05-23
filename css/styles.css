@@ -1,0 +1,39 @@
+h1 {
+  color: white;
+  text-align: left;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  color: firebrick;
+  text-align: center;
+  font-size: 50px;
+  line-height: 50px;
+}
+
+p {
+  font-family: cursive;
+  color: seashell;
+  font-weight: bolder;
+}
+
+body {
+  background-color: mediumseagreen;
+  font-family: cursive;
+  color: seashell;
+  text-align: center;
+}
+
+ul {
+  color: seashell;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: left;
+}
