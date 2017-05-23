@@ -1,12 +1,12 @@
-# _Cookie Recipe Web Page_
+# _Fyre Resort Web Page_
 
-#### _HTML and GitHub Exercise, 05.22.2017_
+#### _HTML, GitHub, CSS, and Branching Exercise, 05.23.2017_
 
 #### By _****Witty Chang & Laura Hamilton****_
 
 ## Description
 
-_This is a web page that shows a recipe for the best chocolate chip cookies and the instructions on how to make them._
+_This is a web page that showcases the Fyre Resort and details about the resort._
 
 ## Setup/Installation Requirements
 
@@ -29,6 +29,7 @@ _Contact us for any suggestions as this is a freesource code that you are welcom
 
 * _HTML_
 * _GIT_
+* _CSS_
 
 ### License
 
