@@ -1,11 +1,21 @@
 h1 {
-  color: red;
-  text-align: center;
+  color: cadetblue;
+  text-align: left;
 }
 
 h2 {
-  font-style: italic;
   text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  color: firebrick;
+  text-align: center;
+  font-size: 50px;
+  line-height: 50px;
 }
 
 p {
@@ -13,7 +23,14 @@ p {
   font-weight: bolder;
 }
 
+body {
+  background-color: gainsboro;
+  font-family: sans-serif;
+  text-align: center;
+}
+
 ul {
   font-size: 20px;
   line-height: 30px;
+  text-align: left;
 }
